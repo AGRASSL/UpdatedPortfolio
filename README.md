@@ -1,9 +1,8 @@
 # Updated Portfolio
 
 ### Built With
-* [Next.js](https://nextjs.org/)
-* [Sass Styling](https://sass-lang.com/)
-* [Mongo DB](https://www.mongodb.com/)
+1. HTML
+2. CSS
 
 
 ## Getting Started
